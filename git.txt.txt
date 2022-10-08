@@ -32,4 +32,12 @@ git config --global --unset user. email.
 
 
 
-Changes Done
+Changes Done (Fetch and Merge)
+
+
+
+
+
+
+
+2nd Change Done (Pull)

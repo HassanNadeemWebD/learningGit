@@ -34,7 +34,7 @@ git config --global --unset user. email.
 
 Changes Done (Fetch and Merge)
 
-
+Push Command 
 
 
 
